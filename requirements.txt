@@ -1,5 +1,3 @@
 
 flask
 charm-crypto
-qiskit
-boto3
